@@ -1,7 +1,7 @@
 # modifyiipa
 
 ### 安装
-安装[modifyiipa]()，在终端运行
+安装[modifyiipa](https://github.com/Mieing/modifyiipa/releases/tag/modifyiipa)，在终端运行
 ```
 modifyiipa
 ```
