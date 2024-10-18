@@ -1,0 +1,11 @@
+Package: com.sttt.modifyiipa
+Name: modifyiipa
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: modifyiipa
+Maintainer: sttt
+Author: sttt
+Section: Terminal_Support
+SileoDepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
+icon: https://Mieing.Github.io/repo/file/sttt.png
+Tag: role::hacker
